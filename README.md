@@ -9,7 +9,11 @@
  <li>📫 How to reach me matiashorrisberger@gmail.com</li>
 </ul>
 <h3>Contact with me</h3>
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/matias-horrisberger-38aba41a9/)
+[![LinkedIn](https://i.imgur.com/OQUXwNp.jpeg)](https://www.linkedin.com/in/matias-horrisberger-38aba41a9/)
+
+]()
+)](https://www.linkedin.com/in/matias-horrisberger-38aba41a9/)
+
 
 
 <!---
