@@ -11,8 +11,6 @@
 <h3>Contact with me</h3>
 [![LinkedIn](https://i.imgur.com/OQUXwNp.jpeg)](https://www.linkedin.com/in/matias-horrisberger-38aba41a9/)
 
-]()
-)](https://www.linkedin.com/in/matias-horrisberger-38aba41a9/)
 
 
 
