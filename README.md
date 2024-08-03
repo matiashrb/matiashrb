@@ -1,6 +1,6 @@
 
-<h1 style="text-align: center;">👋 Hello World, I’m Matias</h1>
-<h2 style="text-align: center;">Developer from Argentina 🇦🇷</h2>
+<h1 align="center">👋 Hello World, I’m Matias</h1>
+<h2 align="center">Developer from Argentina 🇦🇷</h2>
 
 <ul>
   <li>💬 Ask me about Javascipt, SQL, Python and algorithms.</li>
