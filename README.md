@@ -3,7 +3,7 @@
 <h2 align="center">Developer from Argentina 🇦🇷</h2>
 
 <ul>
-  <li>💬 Ask me about JavaScript, SQL, Python, and algorithms.</li>
+  <li>💬 Ask me about JavaScript, SQL, Java, and algorithms.</li>
   <li>🌱 I’m currently learning ...</li>
   <li>🕘 I'm currently looking for a job to sharpen my skills.</li>
   <li>📫 How to reach me: matiashorrisberger@gmail.com</li>
