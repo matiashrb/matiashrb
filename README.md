@@ -1,12 +1,13 @@
-
+<img src="https://i.imgur.com/eBXuXFm.jpeg" alt="Mi Foto" width="100%">
 <h1 align="center">👋 Hello World, I’m Matias</h1>
 <h2 align="center">Developer from Argentina 🇦🇷</h2>
 
-<ul>
-  <li>💬 Ask me about JavaScript, SQL, Java, and algorithms.</li>
-  <li>🌱 I’m currently learning ...</li>
-  <li>🕘 I'm currently looking for a job to sharpen my skills.</li>
-  <li>📫 How to reach me: matiashorrisberger@gmail.com</li>
+<ul>💻 Desarrollador Full Stack
+  <li>Frontend: JavaScript | TypeScript | React | HTML | CSS</li>
+  <li>Backend: Java | Python | C#</li>
+  <li>Bases de datos relacionales: SQL | PostgreSQL</li>
+  <li>Sistema de control de versiones: Git | GitHub (nube)</li>
+  <li>Testing: Selenium</li>
 </ul>
 
 <h3>Contact with me:</h3>
