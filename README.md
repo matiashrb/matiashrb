@@ -5,7 +5,7 @@
 <ul>💻 Desarrollador Full Stack
   <li>Frontend: JavaScript | TypeScript | React | HTML | CSS</li>
   <li>Backend: Node.js | Python | C#</li>
-  <li>Bases de datos relacionales: SQL | PostgreSQL</li>
+  <li>Bases de datos relacionales: SQL | MySQL</li>
   <li>Sistema de control de versiones: Git | GitHub (nube)</li>
   <li>Testing: Selenium</li>
 </ul>
